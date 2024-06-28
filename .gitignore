@@ -2,3 +2,5 @@
 .vscode/
 **__pycache__/
 **.pyc
+mini_speech_commands.zip
+mini_speech_commands/
